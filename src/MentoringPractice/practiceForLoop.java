@@ -1,6 +1,6 @@
 package MentoringPractice;
 
-public class practiceLoop {
+public class practiceForLoop {
 
     public static void forLoop() {
         for (int i=0;i<=10;i++){
@@ -15,7 +15,7 @@ public class practiceLoop {
     }
 
     public static void main(String[] args) {
-        practiceLoop.forLoop();
+        practiceForLoop.forLoop();
 
     }
 }
